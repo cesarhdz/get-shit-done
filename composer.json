@@ -1,0 +1,12 @@
+{
+    "name": "leftnode/get-shit-done",
+    "description": "git@github.com:cesarhdz/get-shit-done.git",
+    "authors": [
+        {
+            "name": "Vic Cherubini",
+            "email": "vic@leftnode.org"
+        }
+    ],
+    "require": {},
+    "bin": ["get-shit-done.php"]	
+}
